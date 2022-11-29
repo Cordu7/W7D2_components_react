@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.film-box{
+    background-color: rgb(221, 211, 211);
+    border: 2px solid black;
+    
+
+}
